@@ -1,0 +1,82 @@
+[
+	{
+	"id": 1,
+	"name": "JohnHammond",
+	"image": "http://www.jurassic-pedia.com/wp-content/uploads/2011/03/hammond_1.png"
+	},
+
+	{
+	"id":2,
+	"name":"AlanGrant",
+	"image": "https://vignette.wikia.nocookie.net/jurassicpark/images/a/a1/Alangranteth.jpg/revision/latest?cb=20110825201052"
+	},
+
+	{
+	"id":3,
+	"name":"T-Rex",
+	"image":"https://vignette.wikia.nocookie.net/dinosaurs/images/f/fd/Jurassic-park-t-rex-600x318.jpeg/revision/latest?cb=20121228020300"
+	},
+
+	{
+	"id":4,
+	"name": "IanMalcolm",
+	"image":"https://uproxx.files.wordpress.com/2017/06/ianmalcolm.jpg?quality=100&w=650"
+
+	},
+
+	{
+	"id":5,
+	"name": "DennisNedry",
+	"image":"https://cdn.costumewall.com/wp-content/uploads/2016/10/dennis-nedry-costume.jpg"
+
+	},
+
+	{
+	"id":6,
+	"name": "EllieSattler",
+	"image":"https://vignette.wikia.nocookie.net/jurassicpark/images/e/e0/Extraptorshedbig.jpg"
+
+	},
+
+	{
+	"id":7,
+	"name": "RobertMuldoon",
+	"image":"https://pbs.twimg.com/profile_images/1226550661/muldoon_400x400.jpg"
+
+	},
+
+	{
+	"id":8,
+	"name": "Dr.Henry",
+	"image":"https://media.vanityfair.com/photos/5579a5b7ca2dc24e4d267ad8/16:9/w_1200,h_630,c_limit/t-bd-wong-jurassic-world.jpg"
+
+	},
+
+	{
+	"id":9,
+	"name": "LexMurphy",
+	"image":"http://www.followingthenerd.com/site/wp-content/uploads/jp9-e1414509855605.jpg"
+
+	},
+
+	{
+	"id":10,
+	"name": "RayArnold",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXQOe_tuM93Zy6iaFoBIvSn8x9Mfn7epybIpLV9Lhc47Lf55F"
+
+	},
+
+	{
+	"id":11,
+	"name": "TimMurphy",
+	"image":"https://i.pinimg.com/736x/57/0f/18/570f1856076ac31efe48e163bfee621c--jurassic-park-gag.jpg"
+
+	},
+
+	{
+	"id":12,
+	"name": "Raptor",
+	"image":"https://images.earthtouchnews.com/media/838292/Muldoon_Jurassic_Park_2015-01-28.jpg"
+
+	}
+]

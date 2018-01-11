@@ -1,0 +1,15 @@
+.cardWrap {
+	background: black;
+	border-radius: 5px;
+	height: 200px;
+	position: relative;
+	width: 200px;
+	box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+
+}
+
+.cardWrap > img {
+	width: 90%;
+	vertical-align: middle;
+	text-align: center;
+}

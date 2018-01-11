@@ -1,0 +1,12 @@
+.container-fluid {
+	background-color: #8a2be2;
+	height: 200 px;
+	position: fixed;
+	width: 100%;
+};
+
+.navbar-header {
+	color: #fff;
+	font-size: 50%;
+	height: 200px;
+};
